@@ -1,1 +1,2 @@
-# Data-Cleaning-With-SQL-
+The project began with the importation of a Housing dataset into SQL Server for the purpose of data cleaning. To achieve this, various queries were executed under different scenarios. The first step involved altering the data format within the dataset, followed by the transformation of lengthy data in the "Owner's Address" and "Property Address" columns into individual columns, enhancing readability and efficiency.
+Furthermore, the "SoldAsVacant" column underwent a cleansing process to standardize its values as either "YES" or "NO," ensuring a more streamlined representation. Additionally, any extraneous or unused columns were meticulously removed from the dataset to enhance data reliability and maintain its overall integrity.
